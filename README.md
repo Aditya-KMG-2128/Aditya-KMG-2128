@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aditya-KMG-2128
-- 👀 I’m interested in AI&ML and Web Developmnet
+- 👀 I’m interested in AI&ML and Web Developmnet and Application Development
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
